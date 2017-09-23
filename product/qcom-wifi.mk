@@ -16,7 +16,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libwcnss_qmi \
     wcnss_service \
-		libwpa_client
+    hostapd \
+    libwpa_client
 
 PRODUCT_PACKAGES += \
     wificond \
